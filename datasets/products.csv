@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,unit_price,stock_quantity,supplier,created_date
+P0001,Product 1,Fashion,Prime,419.55,296,Miller-Morales,2024-07-06
+P0002,Product 2,Sports,Nova,226.04,247,Morris-Santana,2025-12-18
+P0003,Product 3,Fashion,Prime,278.2,278,"Hunter, Tapia and Rivera",2025-10-30
+P0004,Product 4,Sports,Zen,466.76,445,"Arroyo, Morris and Walton",2025-03-20
+P0005,Product 5,Home,Nova,288.04,119,Bell-Esparza,2024-11-03
+P0006,Product 6,Sports,Acme,-10.0,242,Jordan-Smith,2024-08-08
+P0007,Product 7,Sports,Zen,494.26,405,"Griffin, Meyer and Lamb",2026-02-11
+P0008,Product 8,Home,Zen,482.59,64,Carter Inc,2025-03-19
+P0009,Product 9,Books,Orbit,169.34,51,Reyes-Scott,2024-09-16
+P0010,Product 10,Sports,Acme,265.35,233,Snow LLC,2025-01-07
+P0011,Product 11,Electronics,Nova,207.94,335,"Chapman, Kennedy and Phillips",2024-10-14
+P0012,Product 12,Home,Acme,237.4,496,Harris Group,2026-04-28
+P0013,Product 13,Fashion,Prime,313.51,203,Smith-Rowe,2026-03-04
+P0014,Product 14,Electronics,Prime,426.91,439,Camacho-Cross,2025-05-27
+P0015,Product 15,Books,Zen,477.3,320,Russell Inc,2026-04-06
+P0016,Product 16,,Orbit,22.77,35,Patrick-Adams,2026-05-01
+P0017,Product 17,Home,Prime,498.73,382,"Day, Brown and Williams",2025-11-20
+P0018,Product 18,Electronics,Zen,489.28,389,"Williams, Carr and Nichols",2024-07-23
+P0019,Product 19,Electronics,Zen,87.35,153,"Frank, Ramirez and Jones",2025-01-13
+P0020,Product 20,Electronics,Acme,165.57,28,"Smith, Carrillo and Little",2026-02-23
+P0021,Product 21,Fashion,Prime,190.55,74,Carlson-Parrish,2026-05-04
+P0022,Product 22,Home,Orbit,208.97,349,"Rich, Taylor and Nelson",2026-06-24
+P0023,Product 23,Home,Nova,91.66,312,"Adams, Clark and Price",2025-01-14
+P0024,Product 24,Sports,Orbit,343.15,254,Evans Inc,2025-06-05
+P0025,Product 25,Books,Nova,119.93,326,Molina-Gray,2025-11-18
+P0026,Product 26,Fashion,Zen,131.39,4,Travis-Beltran,2024-07-11
+P0027,Product 27,Sports,Prime,340.42,80,Jimenez-Fowler,2024-12-10
+P0028,Product 28,Electronics,Zen,472.89,300,Rhodes-Beasley,2025-09-01
+P0029,Product 29,Fashion,Zen,346.71,233,"Juarez, Williams and Barrett",2025-05-12
+P0030,Product 30,Fashion,Nova,499.69,436,Love LLC,2025-01-14
+P0031,Product 31,Sports,Acme,122.42,292,"Wiggins, Gates and Solis",2026-06-09
+P0032,Product 32,Fashion,Orbit,151.46,358,Pruitt-Burke,2026-01-09
+P0033,Product 33,Fashion,Acme,489.08,337,Meyer-Bishop,2026-03-29
+P0034,Product 34,Sports,Prime,9.01,442,Lee-Collins,2024-07-30
+P0035,Product 35,Electronics,Orbit,373.86,426,Elliott Group,2025-10-30
+P0036,Product 36,Fashion,Nova,305.5,180,Mitchell-Kim,2025-03-23
+P0037,Product 37,Home,Nova,312.34,347,Sosa-Wilson,2025-02-11
+P0038,Product 38,Home,Acme,452.18,330,"Lam, Rojas and Holder",2025-11-15
+P0039,Product 39,Electronics,Prime,395.36,17,"Moore, Smith and Boyd",2025-12-12
+P0040,Product 40,Books,Prime,367.52,46,"Flores, Davidson and Russo",2025-11-22
+P0041,Product 41,Fashion,Prime,375.0,89,Rodriguez-Fisher,2024-12-26
+P0042,Product 42,Home,Nova,394.32,448,Jackson Group,2024-07-23
+P0043,Product 43,Fashion,Orbit,253.39,139,"Ward, Dunn and Moran",2026-01-05
+P0044,Product 44,Home,Prime,457.45,483,Stevens Group,2025-01-30
+P0045,Product 45,Sports,Prime,374.55,173,"Clark, Sweeney and Ramos",2025-11-24
+P0046,Product 46,Electronics,Zen,481.63,72,Powell-Bridges,2024-12-04
+P0047,Product 47,Home,Zen,483.8,411,"Melendez, Miller and Davis",2026-02-14
+P0048,Product 48,Books,Prime,49.7,202,Harrison PLC,2024-10-18
+P0049,Product 49,Electronics,Prime,270.6,232,Mercado LLC,2026-02-21
+P0050,Product 50,Fashion,Prime,294.36,421,"Edwards, Dean and Wheeler",2024-07-18
+P0051,Product 51,Fashion,Acme,339.04,241,Reilly-Young,2025-06-02
+P0052,Product 52,Electronics,Orbit,442.7,287,Robinson Group,2024-09-26
+P0053,Product 53,Fashion,Orbit,114.58,32,"Shaw, Riley and Hooper",2026-04-08
+P0054,Product 54,Sports,Prime,326.37,59,Ruiz PLC,2024-08-11
+P0055,Product 55,Home,Acme,473.4,155,"Hess, Hines and Patterson",2026-02-23
+P0056,Product 56,Sports,Acme,53.11,454,"Weaver, Little and Brown",2026-04-11
+P0057,Product 57,Books,Nova,197.38,189,Patrick-Joyce,2025-08-29
+P0058,Product 58,Books,Zen,295.73,372,"Green, Burton and Wallace",2025-06-28
+P0059,Product 59,Home,Zen,329.19,426,Harris-Warren,2026-06-23
+P0060,Product 60,Sports,Orbit,207.02,487,"Fernandez, Jennings and Cameron",2025-12-30
+P0061,Product 61,Fashion,Acme,346.69,111,Palmer-Gomez,2024-08-17
+P0062,Product 62,Sports,Zen,475.52,437,Morrison-Grant,2025-02-07
+P0063,Product 63,Fashion,Acme,490.56,188,"Huerta, Gill and Burton",2024-10-31
+P0064,Product 64,Books,Prime,34.97,141,"Clark, Baker and Hunt",2025-04-27
+P0065,Product 65,Home,Acme,474.76,421,"Johnson, Moore and Smith",2025-06-16
+P0066,Product 66,Sports,Acme,333.07,328,Hernandez PLC,2025-04-18
+P0067,Product 67,Books,Acme,30.04,170,White Ltd,2026-01-26
+P0068,Product 68,Home,Nova,394.55,105,"Johnson, Atkinson and Rojas",2025-08-04
+P0069,Product 69,Electronics,Orbit,107.54,110,"Garcia, Hebert and Holland",2025-07-30
+P0070,Product 70,Home,Prime,388.31,403,"Hughes, Rios and Farmer",2025-07-09
+P0071,Product 71,Books,Acme,142.25,74,Ochoa Inc,2025-10-18
+P0072,Product 72,Home,Orbit,129.07,89,Smith-Morales,2025-12-05
+P0073,Product 73,Electronics,Acme,70.24,183,"Johnson, Wilson and Gibson",2024-10-05
+P0074,Product 74,Home,Orbit,165.27,89,Maxwell-Lawrence,2024-10-14
+P0075,Product 75,Fashion,Acme,67.75,215,"Lawson, Hall and Hill",2025-11-29
+P0076,Product 76,Books,Acme,374.1,243,"Spears, Kim and Torres",2026-04-21
+P0077,Product 77,Sports,Prime,259.05,55,Sanchez LLC,2024-08-02
+P0078,Product 78,Sports,Orbit,114.67,314,Murphy-Dixon,2025-04-29
+P0079,Product 79,Electronics,Orbit,154.31,329,"Logan, Grimes and Barajas",2024-11-17
+P0080,Product 80,Electronics,Acme,499.3,433,Vaughn-Smith,2025-06-21
+P0081,Product 81,Sports,Zen,344.62,251,Singh and Sons,2026-03-06
+P0082,Product 82,Sports,Acme,450.14,164,"Roach, Robinson and Morris",2025-03-06
+P0083,Product 83,Books,Nova,37.51,140,Maldonado LLC,2025-05-18
+P0084,Product 84,Books,Orbit,276.44,166,Howard Ltd,2024-09-07
+P0085,Product 85,Sports,Orbit,267.63,232,Williamson-Lowe,2025-12-23
+P0086,Product 86,Books,Orbit,217.95,406,"Hill, Short and Baker",2025-02-13
+P0087,Product 87,Electronics,Orbit,361.82,110,"Medina, Garcia and Jones",2024-08-16
+P0088,Product 88,Sports,Zen,444.61,211,Tapia-Curtis,2025-11-25
+P0089,Product 89,Fashion,Zen,202.37,373,Mayer Ltd,2026-01-31
+P0090,Product 90,Electronics,Prime,216.25,340,Gonzalez PLC,2026-06-25
+P0091,Product 91,Fashion,Prime,477.03,351,Nguyen Group,2026-02-19
+P0092,Product 92,Sports,Acme,50.16,43,"Guzman, Manning and Aguilar",2025-05-17
+P0093,Product 93,Electronics,Zen,52.8,378,Williamson-Medina,2026-03-31
+P0094,Product 94,Fashion,Nova,280.4,300,Hall LLC,2026-02-08
+P0095,Product 95,Books,Orbit,168.17,62,"Adams, Simmons and Carter",2025-04-28
+P0096,Product 96,Sports,Prime,437.44,481,Andrews-Carter,2026-04-30
+P0097,Product 97,Sports,Acme,484.36,307,Weiss Group,2025-12-13
+P0098,Product 98,Fashion,Prime,56.28,259,Mckay-Olsen,2024-08-18
+P0099,Product 99,Home,Nova,330.08,114,Pace PLC,2025-02-19
+P0100,Product 100,Electronics,Prime,423.46,188,Chang PLC,2025-10-27
